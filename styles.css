@@ -96,3 +96,11 @@ footer {
     border-top: 1px solid #ccc;
     width: 100%;
 }
+
+.table-screenshot {
+    width: 100%; 
+    max-width: 400px; 
+    height: auto; 
+    display: block; 
+    margin: 10px auto;
+}
