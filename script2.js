@@ -72,9 +72,10 @@ tagSelectorsButton.addEventListener('click', () => {
     - <strong>label</strong>: Підпис для елемента форми.<br>
     - <strong>input</strong>: Поле для введення даних.<br>
     - <strong>footer</strong>: Визначає нижню частину документа.<br>
-    <img src="./img/teg1.png" alt="Скріншот коду тегу" class="screenshot"><br>
-    <img src="./img/teg2.png" alt="Скріншот коду тегу" class="screenshot"><br>
-    <img src="./img/teg3.png" alt="Скріншот коду тегу" class="screenshot"><br>
+    <img src="./img/11.png" alt="Скріншот коду тегу" class="screenshot"><br>
+    <img src="./img/12.png" alt="Скріншот коду тегу" class="screenshot"><br>
+    <img src="./img/13.png" alt="Скріншот коду тегу" class="screenshot"><br>
+    <img src="./img/14.png" alt="Скріншот коду тегу" class="screenshot"><br>
     `;
 });
 
@@ -98,9 +99,11 @@ classSelectorsButton.addEventListener('click', () => {
     - <strong>.footer-container</strong>: Для стилізації контейнера футера.<br>
     - <strong>.footer-socialmedia</strong>: Стилізація іконок соціальних мереж у футері.<br>
     - <strong>.footer-contacts</strong>: Для стилізації контактної інформації у футері.<br>
-    <img src="./img/class1.png" alt="Скріншот коду класів" class="screenshot"><br>
-    <img src="./img/class2.png" alt="Скріншот коду класів" class="screenshot"><br>
-    <img src="./img/class3.png" alt="Скріншот коду класів" class="screenshot"><br>
+    <img src="./img/21.png" alt="Скріншот коду класів" class="screenshot"><br>
+    <img src="./img/22.png" alt="Скріншот коду класів" class="screenshot"><br>
+    <img src="./img/23.png" alt="Скріншот коду класів" class="screenshot"><br>
+    <img src="./img/24.png" alt="Скріншот коду класів" class="screenshot"><br>
+    <img src="./img/25.png" alt="Скріншот коду класів" class="screenshot"><br>
     `;
 });
 
@@ -109,6 +112,7 @@ idSelectorsButton.addEventListener('click', () => {
     output.innerHTML = `
     <strong>#watch-now</strong>: Використовується для стилізації кнопки "Дивитися зараз" у секції з головним фільмом.<br>
     <img src="./img/ide.png" alt="Скріншот коду ідетифікатора" class="screenshot"><br>
+    <img src="./img/31.png" alt="Скріншот коду ідетифікатора" class="screenshot"><br>
     `;
 });
 
