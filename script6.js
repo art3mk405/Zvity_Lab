@@ -26,8 +26,11 @@ temaMetaButton.addEventListener('click', () => {
 
 task2Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання другого завдання:<br>
+    Код:
     <img src="./img/lab06/2.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab06/2.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab06/2.3.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });
@@ -35,7 +38,10 @@ task2Button.addEventListener('click', () => {
 
 task4Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання четвертого завдання:<br>
+    Код:
     <img src="./img/lab06/4.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab06/4.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
     `;
@@ -43,7 +49,10 @@ task4Button.addEventListener('click', () => {
 
 task6Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання шостого завдання:<br>
+    Код:
     <img src="./img/lab06/6.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab06/6.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">   
     `;
 });
@@ -51,21 +60,30 @@ task6Button.addEventListener('click', () => {
 
 task8Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання восьмого завдання:<br>
+    Код:
     <img src="./img/lab06/8.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab06/8.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });
 
 task9Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання дев'ятого завдання:<br>
+    Код:
     <img src="./img/lab06/9.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab06/9.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });
 
 task10Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання десятого завдання:<br>
+    Код:
     <img src="./img/lab06/10.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab06/10.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });

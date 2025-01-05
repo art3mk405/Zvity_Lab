@@ -25,7 +25,10 @@ temaMetaButton.addEventListener('click', () => {
 
 task1Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання першого завдання:<br>
+    Код:
     <img src="./img/lab05/1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab05/2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });
@@ -33,7 +36,10 @@ task1Button.addEventListener('click', () => {
 
 task2Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання другого завдання:<br>
+    Код:
     <img src="./img/lab05/3.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab05/4.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
     `;
@@ -41,7 +47,10 @@ task2Button.addEventListener('click', () => {
 
 task3Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання третього завдання:<br>
+    Код:
     <img src="./img/lab05/5.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab05/6.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">   
     `;
 });
@@ -49,16 +58,22 @@ task3Button.addEventListener('click', () => {
 
 task4Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання четвертого завдання:<br>
+    Код:
     <img src="./img/lab05/7.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab05/8.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab05/9.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });
 
 task5Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання п'ятого завдання:<br>
+    Код:
 <img src="./img/lab05/10.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab05/11.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
     <img src="./img/lab05/12.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });

@@ -16,7 +16,10 @@ temaMetaButton.addEventListener('click', () => {
     <br>
     Мета: придбати практичні навички роботи  з селекторами, ідентифікаторами, списками,  різноманітними властивостями кольору і фону,  зовнішними та внутрішними  відступами,  плаваючими елементами, оформленням текстових елементів<br>
     <br>
-    Місце розташування: https://github.com/art3mk405/IS-31_Voloshyn_laba02
+    Місце розташування сайту: https://github.com/art3mk405/IS-31_Voloshyn_laba02 <br>
+    Посилання на живу сторінку сайту: https://github.com/art3mk405/IS-31_Voloshyn_laba02/ <br>
+    Місце розташування звіту: https://github.com/art3mk405/zvity_lab <br>
+    Посилання на живу сторінку звіту: https://github.com/art3mk405/zvity_lab/
     `;
 });
 
@@ -76,6 +79,7 @@ tagSelectorsButton.addEventListener('click', () => {
     <img src="./img/12.png" alt="Скріншот коду тегу" class="screenshot"><br>
     <img src="./img/13.png" alt="Скріншот коду тегу" class="screenshot"><br>
     <img src="./img/14.png" alt="Скріншот коду тегу" class="screenshot"><br>
+    Ось які селектори тегів я застосував
     `;
 });
 
@@ -104,6 +108,7 @@ classSelectorsButton.addEventListener('click', () => {
     <img src="./img/23.png" alt="Скріншот коду класів" class="screenshot"><br>
     <img src="./img/24.png" alt="Скріншот коду класів" class="screenshot"><br>
     <img src="./img/25.png" alt="Скріншот коду класів" class="screenshot"><br>
+    Ось які селектори класу я застосував
     `;
 });
 
@@ -113,6 +118,7 @@ idSelectorsButton.addEventListener('click', () => {
     <strong>#watch-now</strong>: Використовується для стилізації кнопки "Дивитися зараз" у секції з головним фільмом.<br>
     <img src="./img/ide.png" alt="Скріншот коду ідетифікатора" class="screenshot"><br>
     <img src="./img/31.png" alt="Скріншот коду ідетифікатора" class="screenshot"><br>
+    Ось які селектори ідентифікаторів я застосував
     `;
 });
 

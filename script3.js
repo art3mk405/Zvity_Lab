@@ -32,10 +32,12 @@ temaMetaButton.addEventListener('click', () => {
 
 task1Button.addEventListener('click', () => {
     output.innerHTML = `
+    Ось як виглядає мій сайт:
     <img src="./img/laba03/1.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/1.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/1.3.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/1.4.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Ось макет коду:
     <img src="./img/laba03/1.5.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/1.6.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/1.7.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
@@ -58,8 +60,9 @@ o	Гумова  блокова верстка<br>
 
 fixTableButton.addEventListener('click', () => {
     output.innerHTML = `
-    
+    Ось як виглядає фіксована таблична верстка:
     <img src="./img/laba03/2.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Ось HTML код:
     <img src="./img/laba03/2.5.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/2.6.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
@@ -68,7 +71,9 @@ fixTableButton.addEventListener('click', () => {
 
 rubberTableButton.addEventListener('click', () => {
     output.innerHTML = `
+    Ось гумова таблична верстка
     <img src="./img/laba03/2.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Ось HTML код:
     <img src="./img/laba03/2.7.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/2.8.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
@@ -78,7 +83,9 @@ rubberTableButton.addEventListener('click', () => {
 
 fixBlockButton.addEventListener('click', () => {
     output.innerHTML = `
+    Ось фіксована блокова верстка
     <img src="./img/laba03/2.3.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Ось HTML код:
     <img src="./img/laba03/2.9.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/2.10.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
@@ -88,7 +95,9 @@ fixBlockButton.addEventListener('click', () => {
 
 rubberBlocksButton.addEventListener('click', () => {
     output.innerHTML = `
+    Ось гумова блокова верстка
     <img src="./img/laba03/2.4.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Ось HTML код:
     <img src="./img/laba03/2.11.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/laba03/2.12.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
@@ -103,12 +112,13 @@ task3Button.addEventListener('click', () => {
 9.	Кожному студенту виконати свій номер варіанта Завдання №3,  за технологією FLEXBOX та засобами CSS.<br>
 Номер варіанта відповідає останній цифрі студента у списку групи. Наприклад, Студент 18 за списком – буде виконувати 8 варіант<br>
 <img src="./img/laba03/3(1).png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
-
+Макет завдання
     `;
 });
 
 pageButton.addEventListener('click', () => {
     output.innerHTML = `
+    Ось як я виконав завдання:
 <img src="./img/laba03/3.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 <img src="./img/laba03/3.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 <img src="./img/laba03/3.3.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
@@ -119,6 +129,7 @@ pageButton.addEventListener('click', () => {
 
 htmlCodButton.addEventListener('click', () => {
     output.innerHTML = `
+    Ось HTML код:
 <img src="./img/laba03/3.6.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 <img src="./img/laba03/3.7.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 <img src="./img/laba03/3.8.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
@@ -128,6 +139,7 @@ htmlCodButton.addEventListener('click', () => {
 
 cssCodButton.addEventListener('click', () => {
     output.innerHTML = `
+    Ось CSS код:
 <img src="./img/laba03/3.10.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 <img src="./img/laba03/3.11.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 <img src="./img/laba03/3.12.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">

@@ -21,19 +21,27 @@ temaMetaButton.addEventListener('click', () => {
 
 task1Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання першого завдання:<br>
+    Код:
     <img src="./img/lab08/1.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab08/1.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab08/1.3.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab08/1.4.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
+    <img src="./img/lab08/1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });
 
 task2Button.addEventListener('click', () => {
     output.innerHTML = `
+    Виконання другого завдання:<br>
+    Код:
     <img src="./img/lab08/2.1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab08/2.2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab08/2.3.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab08/2.4.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Результат:
+    <img src="./img/lab08/2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     `;
 });
 

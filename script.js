@@ -15,7 +15,10 @@ descButton.addEventListener('click', () => {
 temaMetaButton.addEventListener('click', () => {
     output.innerHTML = 'Тема: СТРУКТУРА HTML-ДОКУМЕНТА. ВИБІР ПРЕДМЕТНОЇ ГАЛУЗІ. РОБОТА З ПОСИЛАННЯМИ, ТАБЛИЦЯМИ, ЗОБРАЖЕННЯМИ, СПИСКАМИ в HTML-ДОКУМЕНТІ. <br><br>';
     output.innerHTML += 'Мета: придбати практичні навички роботи з HTML-документом, таблицями, зображеннями, посиланнями, списками, формами. Створити шаблон звітного HTML-документу для відображення результатів роботи всіх лабораторних робіт. <br><br>';
-    output.innerHTML += 'Місце розташування: https://github.com/art3mk405/IS-31_Voloshyn_IWatch_site';
+    output.innerHTML += 'Місце розташування сайту: https://github.com/art3mk405/IS-31_Voloshyn_IWatch_site <br>';
+    output.innerHTML += 'Посилання на живу сторінку сайту: https://art3mk405.github.io/IS-31_Voloshyn_IWatch_site/';
+    output.innerHTML += 'Місце розташування звіту: https://github.com/art3mk405/zvity_lab <br>';
+    output.innerHTML += 'Посилання на живу сторінку звіту: https://github.com/art3mk405/zvity_lab/';
 });
 
 structureButton.addEventListener('click', () => {
@@ -43,8 +46,12 @@ structureButton.addEventListener('click', () => {
 tableCodeButton.addEventListener('click', () => {
     output.innerHTML = `
         <img src="./img/table1.png" alt="Скріншот коду таблиці" class="table-screenshot" width="400">
+        Перший скрін таблиці
     <img src="./img/table2.png" alt="Скріншот коду таблиці" class="table-screenshot" width="400">
+    Другий скрін таблиці
     <img src="./img/table3.png" alt="Скріншот коду таблиці" class="table-screenshot" width="400"><br>
+    Третій скрін таблиці<br>
+    <br>
         Використані теги:<br>
         <strong>&lt;table&gt;</strong>: Використовується для створення таблиці. В атрибуті class задається стиль таблиці.<br>
         <strong>&lt;thead&gt;</strong>: Визначає заголовок таблиці.<br>
@@ -60,6 +67,8 @@ tableCodeButton.addEventListener('click', () => {
 formCodeButton.addEventListener('click', () => {
     output.innerHTML = `
         <img src="./img/form1.png" alt="Скріншот коду форми" class="table-screenshot"><br>
+        Скріншот коду форми <br>
+        <br>
         Використані теги:<br>
         <strong>&lt;form&gt;</strong>: Використовується для створення форми. Атрибути <code>action</code> і <code>method</code> задають адресу обробника та метод відправки даних (GET або POST).<br>
         <strong>&lt;label&gt;</strong>: Визначає мітку для поля вводу. Атрибут <code>for</code> асоціює мітку з конкретним полем.<br>
@@ -72,6 +81,8 @@ formCodeButton.addEventListener('click', () => {
 imageCodeButton.addEventListener('click', () => {
     output.innerHTML = `
         <img src="./img/image1.png" alt="Скріншот коду зображень" class="table-screenshot"><br>
+        Скріншот коду зображення <br>
+        <br>
         Використані теги:<br>
         <strong>&lt;section&gt;</strong>: Використовується для визначення секції на сторінці.<br>
         <strong>&lt;div&gt;</strong>: Використовується для створення контейнера для кожного зображення.<br>

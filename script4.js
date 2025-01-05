@@ -38,6 +38,7 @@ desktopButton.addEventListener('click', () => {
 Макет: Простір на екрані дозволяє використовувати великі елементи, багато колонок або широкі контейнери.<br>
 CSS: Загальний стиль сайту можна писати без медіа-запитів або з медіа-запитом, що таргетує великі екрани.<br>
     <img src="./img/lab04/1.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Стилізація десктопної версії
     <img src="./img/lab04/2.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab04/3.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
@@ -51,6 +52,7 @@ tabletButton.addEventListener('click', () => {
 Макет: Може бути зменшений у кількості колонок або перегрупований для комфортного перегляду.<br>
 CSS: Використовуються медіа-запити для адаптації елементів до меншої ширини екрану. Наприклад, зменшення розмірів шрифтів, відступів або зміна розташування елементів.<br>
     <img src="./img/lab04/4.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Стилізація планшетної версії
     <img src="./img/lab04/5.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab04/6.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
@@ -65,6 +67,7 @@ mobileButton.addEventListener('click', () => {
 Макет: Зазвичай використовують одну колонку з мінімальними елементами, оптимізованими для вузьких екранів.<br>
 CSS: Застосовуються медіа-запити для ще більшого спрощення елементів — великий текст, кнопки, змінені відступи та розміщення.<br>
     <img src="./img/lab04/7.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    Стилізація мобільної версії
     <img src="./img/lab04/8.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
     <img src="./img/lab04/9.png" alt="Скріншот коду" style="width: 50%; height: auto; display: block; margin-top: 10px;">
 
